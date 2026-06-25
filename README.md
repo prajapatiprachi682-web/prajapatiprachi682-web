@@ -1,4 +1,7 @@
 # Hi 👋, I'm Prachi Prajapati
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;DSA+Enthusiast;React.js+Developer;Full+Stack+Learner;Building+Real+World+Projects;Future+Software+Engineer" />
+</p>
 
 ## 🚀 Computer Science Engineering Student | DSA Enthusiast | Web Developer
 
