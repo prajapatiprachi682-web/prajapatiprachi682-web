@@ -6,11 +6,7 @@ I'm a passionate Computer Science Engineering student from India who enjoys solv
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prajapatiprachi682-web&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prajapatiprachi682-web&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p>
 - 🌱 Currently learning React.js and Full Stack Development
 - 💻 Solved 163+ problems on LeetCode
 - 🟢 Solved 149+ problems on GeeksforGeeks
