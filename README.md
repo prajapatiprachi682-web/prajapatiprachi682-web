@@ -77,6 +77,15 @@ https://www.naukri.com/code360/profile/2a4a6b16-40bf-4688-9110-7978de7b14a7
 <img src="https://streak-stats.demolab.com?user=prajapatiprachi682-web&theme=tokyonight&hide_border=true"/>
 
 </p>
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prajapatiprachi682-web/github-actions/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
 
 # 🛠 Tech Stack
 <p align="center">
