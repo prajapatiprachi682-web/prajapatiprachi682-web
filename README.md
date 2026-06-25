@@ -51,6 +51,22 @@ https://www.naukri.com/code360/profile/2a4a6b16-40bf-4688-9110-7978de7b14a7
 **Solved:** 121 Problems
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=prajapatiprachi682-web&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajapatiprachi682-web&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=prajapatiprachi682-web&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 # 🛠 Tech Stack
 
