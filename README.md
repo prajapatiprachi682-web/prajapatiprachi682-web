@@ -190,6 +190,9 @@ https://prajapatiprachi682-web.github.io/Portfolio/
 - Improve Problem Solving Skills
 
 ---
+## 📈 Contribution Graph
+
+[![Prachi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prajapatiprachi682-web&theme=tokyo-night&hide_border=true)](https://github.com/prajapatiprachi682-web)
 
 ## ⭐ Thanks for visiting my profile!
 
