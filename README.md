@@ -40,21 +40,21 @@ I'm a passionate Computer Science Engineering student from India who enjoys solv
 ### 🟡 LeetCode
 https://leetcode.com/u/_prachi_15_/
 
-**Solved:** 163 Problems
+**Solved:** 200 Problems
 
 ---
 
 ### 🟢 GeeksforGeeks
 https://www.geeksforgeeks.org/profile/prajapatipecxy/
 
-**Solved:** 149 Problems
+**Solved:** 200 Problems
 
 ---
 
 ### 🟠 Code360
 https://www.naukri.com/code360/profile/2a4a6b16-40bf-4688-9110-7978de7b14a7
 
-**Solved:** 121 Problems
+**Solved:** 150 Problems
 ## 🏆 Coding Achievements
 
 🏅 LeetCode - 163+ Problems
