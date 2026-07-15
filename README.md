@@ -142,8 +142,17 @@ https://www.naukri.com/code360/profile/2a4a6b16-40bf-4688-9110-7978de7b14a7
 
 ## 🌐 Portfolio Website
 
-- Responsive Design
+A personal portfolio showcasing my skills, projects, certifications, coding profiles, and development journey.
+
+**Tech Stack**
+- HTML5
+- CSS3
+- JavaScript
 - Tailwind CSS
+
+✨ Features
+- Responsive Design
+- Modern UI
 - GitHub Pages Deployment
 
 🔗 Live Demo
@@ -152,16 +161,58 @@ https://prajapatiprachi682-web.github.io/Portfolio/
 
 ---
 
-## ✅ React Todo App
+## 🌦️ React Weather App
 
-- Add Task
-- Delete Task
-- Edit Task
-- Local Storage
-- React Hooks
+A modern weather application built with React that provides real-time weather information using Weather API.
+
+**Tech Stack**
+- React.js
+- JavaScript
+- CSS
+- Weather API
+
+✨ Features
+- 🔍 Search Weather by City
+- 🌡️ Live Temperature
+- ☁️ Weather Condition
+- 💧 Humidity
+- 🌬️ Wind Speed
+- 📱 Responsive UI
+- ⚡ Fast API Integration
+
+🔗 Live Demo
+
+https://prachi-weather-project-2026.netlify.app
+
+📂 Repository
+
+https://github.com/prajapatiprachi682-web/react-weather-app
 
 ---
 
+## ✅ React Todo App
+
+A simple and responsive task management application built with React.
+
+**Tech Stack**
+- React.js
+- JavaScript
+- CSS
+
+✨ Features
+- ➕ Add Task
+- ✏️ Edit Task
+- 🗑️ Delete Task
+- 💾 Local Storage
+- 📱 Responsive Design
+
+🔗 Live Demo
+
+https://prachi-react-todo-app.netlify.app
+
+📂 Repository
+
+https://github.com/prajapatiprachi682-web/react-todo-app
 # 🏆 Certifications
 
 - JavaScript Essentials 1
