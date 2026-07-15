@@ -161,7 +161,7 @@ https://prajapatiprachi682-web.github.io/Portfolio/
 
 ---
 
-## 🌦️ React Weather App
+## 🌤️ Weather Forecast App
 
 A modern weather application built with React that provides real-time weather information using Weather API.
 
@@ -179,6 +179,7 @@ A modern weather application built with React that provides real-time weather in
 - 🌬️ Wind Speed
 - 📱 Responsive UI
 - ⚡ Fast API Integration
+- 📍 Current Location Detection
 
 🔗 Live Demo
 
